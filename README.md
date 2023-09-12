@@ -1,20 +1,14 @@
 
-# 🌞🌞🌞 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等
-<br>
-
-<div align=center>
-
-<img width="70%" height="70%" src="https://user-images.githubusercontent.com/87457873/134297801-d13053cc-0a5d-4efd-9f02-9343b513fc33.png"/>
+# 🌞2023，C++资料整理，含C++ 11/14/17/20/23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等
 
 ## 🚀 直达  [（# C++11）](#cpp_11) [（# C++14）](#cpp_14) [（# C++17）](#cpp_17) [（# C++20）](#cpp_20) [（# C++23）](#cpp_23)
 
-<br>
-
-</div>
-
-# 🔥🔥🔥 [【重磅推荐收藏：C++ 参考手册】](https://c-cpp.com/cpp) - 11~20你想要查的，他都有
+# 🔥 [【C++ 参考手册】](https://c-cpp.com/cpp) - 11~20你想要查的，他都有
 
 # 🌋 C++ 发展历程
+<div align=center>
+<img width="70%" height="70%" src="https://user-images.githubusercontent.com/87457873/134297801-d13053cc-0a5d-4efd-9f02-9343b513fc33.png"/>
+</div>
 
 * C++ 编程语言的历史可以追溯到 **1979 年**，当时 Bjarne Stroustrup 为博士学位论文进行了一些开发。在 Stroustrup 可以使用的所有语言中，有一种被称为 Simula 的语言，顾名思义，它可能是一种主要为仿真而设计的语言。Simula 67 语言是 Stroustrup 使用的变体，被认为是支持面向对象编程范例的主要语言。Stroustrup 发现这种范例对包装开发很有帮助。但是，Simula 语言对于实践和实际使用而言太慢了。
 随后不久，Bjarne Stroustrup 希望通过支持面向对象范例来增强 C。他深入研究了 Smalltalk 的 OO 实现，以获取有关实现的想法。但是他不愿意为此放弃性能，因此他开始从事 “C with Classes (带有类的 C）” 的工作，希望 C++ 代码运行时应具有与 C 代码相似（或更好）的性能。
@@ -1712,12 +1706,6 @@
 
 ---
 
+## ★与我联系
+Email: 1229575912@qq.com
 
-## 联系专栏
-
-#### 零声教育，专注于c/c++Linux后台服务器开发架构技术学习提升。<br>
-每天晚上8点【免费技术直播】：[分享Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK等技术内容，立即学习。](https://ke.qq.com/course/417774?flowToken=1037711)
-
-#### 关注微信公众号【后台服务架构师】——【联系我们】，获取本repo最全PDF学习文档！
-
-<img width="65%" height="65%" src="https://user-images.githubusercontent.com/87457873/130796999-03af3f54-3719-47b4-8e41-2e762ab1c68b.png"/>
